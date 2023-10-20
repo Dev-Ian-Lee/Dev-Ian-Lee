@@ -1,7 +1,9 @@
 ## Hi there This is Ian Lee's Github Page 👋
-### I'm a student developer🌱 interested in Backend, Data, Infra Engineering
+### I'm a Backend developer🌱 interested in Data, Infra Engineering and NLP
 ### I try to record my experiences in my Notion and Blog (Check this in my bio!)
-- Currently learning Data Engineering(ETL, AWS, Airflow, ...)
+
+### Currently working as a Backend Developer at Samil PwC
+- Currently learning NLP(Embedding, Vector Search, ...)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Ian-Lee&show_icons=true&theme=tokyonight)
